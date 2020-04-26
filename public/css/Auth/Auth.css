@@ -1,0 +1,63 @@
+#auth_login {
+    position: relative;
+    top: 100px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#auth_password {
+    position: relative;
+    top: 125px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#auth_submit {
+    position: relative;
+    top: 170px;
+    width: 20%;
+    left:40%;
+}
+
+#reg_login {
+    position: relative;
+    top: 100px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#reg_email {
+    position: relative;
+    top: 125px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#reg_age {
+    position: relative;
+    top: 155px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#reg_password {
+    position: relative;
+    top: 185px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#reg_password2 {
+    position: relative;
+    top: 215px;
+    height: 30px;
+    width: 60%;
+    left: 20%;
+}
+#reg_submit {
+    position: relative;
+    top: 245px;
+    height: 30px;
+    width: 25%;
+    left: 35%;
+}

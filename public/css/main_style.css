@@ -1,0 +1,35 @@
+body {margin:0;}
+.navbar {
+    position: relative;
+    background-color: lavender;
+    top: 0;
+    min-height: 100px;
+    width: 100%;
+    text-align: right;
+}
+.content {
+
+}
+#login_form {
+    position: relative;
+    display: none;
+    border: 1px solid greenyellow;
+    top: 70px;
+    width: 40%;
+    min-width: 350px;
+    height: 350px;
+    left: 30%;
+}
+
+#registration_form {
+    position: relative;
+    display: none;
+    border: 1px solid greenyellow;
+    top: 70px;
+    width: 40%;
+    min-width: 350px;
+    height: 520px;
+    left: 30%;
+
+}
+
